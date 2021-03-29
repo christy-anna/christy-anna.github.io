@@ -7,6 +7,8 @@ menu{ /*Задаем свойства для тегов по умолчанию*
 	display: block;
 }
 
+link rel [type=icon]
+{href: icon.png;}
 
 .center{
 	max-width: 1230px;
