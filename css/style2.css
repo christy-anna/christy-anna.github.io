@@ -7,8 +7,6 @@ menu{ /*Задаем свойства для тегов по умолчанию*
 	display: block;
 }
 
-link rel [type=icon]
-{href: icon.png;}
 
 .center{
 	max-width: 1230px;
@@ -129,4 +127,11 @@ input[type=submit] {
   width: 10%;
   padding:10px;
   border-radius:10px;
+}
+.arrow{
+	padding:10px;
+	margin-bottom: 20px;
+	margin-right: 680px;
+	margin-top: 10px;
+	margin-left:680px;
 }
